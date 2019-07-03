@@ -1,0 +1,9 @@
+SQuirreL SQL client: A single, open source front end to interact with your heterogeneous database environment
+
+It's nice to have a single front end app that you can use to interact with the myriad of database flavors
+
+Because SQuirreL SQL is written in the Java programming language
+
+myriad:
+a countless or extremely great number of people or things.
+
